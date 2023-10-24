@@ -4,7 +4,7 @@ In this assignment, I added a Mapbox marker to a web page using the Mapbox GL Ja
 
 ## Instructions
 
-Go to this web app [here](https://arizonasolid-lunarvictor.codio.io/student_code/index.html)
+Go to this web app [here](https://arizonasolid-lunarvictor.codio.io/student_code/index.html) and Click on the "Show Stops Between MIT and Harvar". You will start to see the bus pin move along the bustop. 
 
 ## Website
 
